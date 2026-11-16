@@ -20,7 +20,7 @@ header, section {
 }
 
 header {
-  background: #214837;
+  background: linear-gradient(135deg,#2c67d4,#2c96d4);
   color: white;
   border-radius: 8px 8px 0 0;
 }
